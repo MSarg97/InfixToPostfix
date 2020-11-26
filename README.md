@@ -5,8 +5,11 @@ A program that converts infix expression to postfix expression and evaluates it.
 The arithmetic operations allowed in an infix expression are:
 
 1)+ addition
+
 2)- substraction
+
 3)* multiplication
+
 4)/ division
 
 
