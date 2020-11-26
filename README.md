@@ -4,13 +4,13 @@ A program that converts an infix expression to postfix expression and evaluates 
 
 The arithmetic operations allowed in an infix expression are:
 
-1) + addition
+1)+ addition
 
-2) - substraction
+2)- substraction
 
-3) * multiplication
+3)* multiplication
 
-4) / division
+4)/ division
 
 
 Only single-digit integers allowed in an infix expression.
