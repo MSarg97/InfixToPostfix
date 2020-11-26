@@ -1,0 +1,5 @@
+﻿  InfixToPostfix.cpp
+  Source.cpp
+  Generating Code...
+C:\Users\maria\source\repos\InfixToPostfix\InfixToPostfix\InfixToPostfix.cpp(135): warning C4715: 'InfixToPostfix::pop': not all control paths return a value
+  InfixToPostfix.vcxproj -> C:\Users\maria\source\repos\InfixToPostfix\Debug\InfixToPostfix.exe
